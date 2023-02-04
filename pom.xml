@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>Java_Guides_Spring_Boot_Restful_Web_Services_Tutorial</artifactId>
+    <artifactId>Java_Guides_Spring_Boot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Java_Guides_Spring_Boot_Restful_Web_Services_Tutorial</name>
     <description>Java_Guides_Spring_Boot_Restful_Web_Services_Tutorial</description>
